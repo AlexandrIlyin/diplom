@@ -1,0 +1,20 @@
+{
+  "name": "diplom",
+  "source": "./src/index.html",
+  "version": "1.0.0",
+ 
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0"
+  },
+  "dependencies": {
+    "parcel": "^2.5.0",
+    "sass": "^1.51.0"
+  }
+}
